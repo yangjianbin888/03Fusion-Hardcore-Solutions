@@ -1,6 +1,6 @@
 # Tokamak Tungsten First Wall: >10MW/m² Steady-State Heat Load & Sputter Erosion Suppression
 
-> **Author**: [你的署名/网名]
+> **Author**: [华夏之光永存]
 > **Date**: 2026-06-23
 > **Series**: 03-Fusion-Hardcore-Solutions / No. 057
 > **Keywords**: Tungsten First Wall, Plasma Facing Components (PFC), Heat Load, Sputter Erosion, CFETR, DEMO
